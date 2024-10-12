@@ -41,9 +41,8 @@ parts:
       - file: book/geospatial/geopandas
       - file: book/geospatial/rasterio
       - file: book/geospatial/xarray
+      - file: book/geospatial/rioxarray
       - file: book/geospatial/leafmap
-      - file: book/geospatial/vector_viz
-      - file: book/geospatial/raster_viz
       - file: book/geospatial/maplibre
       - file: book/geospatial/whitebox
       - file: book/geospatial/geemap
@@ -58,3 +57,6 @@ parts:
       - file: book/labs/lab_01
       - file: book/labs/lab_02
       - file: book/labs/lab_03
+      - file: book/labs/lab_04
+      - file: book/labs/lab_05
+      - file: book/labs/lab_06

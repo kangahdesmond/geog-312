@@ -11,6 +11,8 @@ __pycache__/
 *.so
 *.geojson
 *.tif
+*.nc
+*.parquet
 
 private/
 .Python
@@ -31,3 +33,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+book/geospatial/nyc_boroughs.*
+# pixi environments
+.pixi
+*.egg-info
